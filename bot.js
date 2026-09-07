@@ -209,7 +209,7 @@ Respond naturally as Yuki.
 
     const response = await ai.responses.create({
 
-      model: "gpt-5.6-luna",
+      model: "gpt-5",
 
       instructions: CHARACTER_PROMPT,
 
